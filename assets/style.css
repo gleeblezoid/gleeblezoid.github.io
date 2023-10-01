@@ -7,7 +7,7 @@ body {
     background-attachment: fixed;
     padding: 25px;
     line-height: 1.5;
-    font-size: 14px;
+    font-size: 18px;
 }
 
 main {
@@ -42,7 +42,7 @@ code,
 pre {
     color: #109a10;
     font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
-    font-size: 12px;
+    font-size: 14px;
 }
 
 header {
