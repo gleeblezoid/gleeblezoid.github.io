@@ -1,0 +1,59 @@
+body {
+    color: #25c856;
+    background-color: #1d1d1d;
+    background-image: linear-gradient(180deg, #1d1d1d 0%, #420c80 100%);
+    font-family: 'Comic Neue', 'Comic Sans MS', sans-serif;
+    font-weight: 400;
+    background-attachment: fixed;
+    padding: 25px;
+    line-height: 1.5;
+    font-size: 14px;
+}
+
+main {
+    max-width: 1000px;
+    margin: 0 auto;
+}
+
+header {
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+a:link,
+a:active,
+a:visited {
+    color: #109a10;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+a:hover,
+a:focus,
+a:visited:hover,
+a:visited:focus {
+    color: #109a10;
+    font-weight: 400;
+    text-decoration: none;
+}
+
+code,
+pre {
+    color: #109a10;
+    font-family: Monaco, Bitstream Vera Sans Mono, Lucida Console, Terminal, Consolas, Liberation Mono, DejaVu Sans Mono, Courier New, monospace;
+    font-size: 12px;
+}
+
+header {
+    text-align: center;
+}
+
+footer {
+    font-size: 11px;
+    margin-top: 40px;
+}
+
+@font-face {
+    font-family: 'HackNerd';
+    src: url(HackNerdFont-Regular.woff2);
+}
