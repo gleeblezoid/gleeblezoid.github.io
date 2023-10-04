@@ -54,6 +54,10 @@ footer {
     margin-top: 3em;
 }
 
+.aligncenter {
+    text-align: center;
+}
+
 @font-face {
     font-family: 'HackNerd';
     src: url(HackNerdFont-Regular.woff2);
