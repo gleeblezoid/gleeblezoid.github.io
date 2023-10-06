@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/gleeblezoid
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://corner.gleeblezoid.com
+  * I am gleeblezoid (https://keybase.io/gleeblezoid) on keybase.
+  * I have a public key with fingerprint C1F6 4D38 0E69 EDF5 FBF6  893F 4F0E 6A4F 8DB7 9357
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101b0ac3a04e953e967e676e296f481e85345f8427398f08a982a9f7cc6cb7ff99b0a",
+      "fingerprint": "c1f64d380e69edf5fbf6893f4f0e6a4f8db79357",
+      "host": "keybase.io",
+      "key_id": "4f0e6a4f8db79357",
+      "kid": "0101b0ac3a04e953e967e676e296f481e85345f8427398f08a982a9f7cc6cb7ff99b0a",
+      "uid": "9dfc3bc4703a5dee4204d38b80e05c19",
+      "username": "gleeblezoid"
+    },
+    "service": {
+      "hostname": "corner.gleeblezoid.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1696626597,
+  "expire_in": 157680000,
+  "prev": "b5ba0a009e750d1a9cd0c4218afe0a1f320d673144c1c59018b9e7742d009d7a",
+  "seqno": 52,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMIpAnicrZJ9aE5RHMefMZPZaiH+Y26EzJz7eu55MC+JvMSYtoQ97j33d7Zrj3sf
+9949MzPENlLkpbAwjU3e39LUlNclrEjE+IP4Qwkt9qRkxbmL8oc/nX9O53c+3+/5
+/n6djuz+kcy0n3OuPV1+P2t2Wuft1soI5Fa11gima1UL0RqhAvo2iFvgB7EK2xKi
+AhKRaCKDygZSgKgyEA2DhjWQiMYUXQRdlRWV6YqEZaIzpBtElwzCMKUaNTFjhHC5
+kCcw2ykDL+HZTsBtqcg0xZJ1BBoBi6nMZJpOZKYwXjEUplsmJrKKubDc9UMFD2ca
+PuTbLq/xQ6wv3j/4/5y7ss+OWIzKJlUwkg3VAlAkFMY3eQNIpSIJQR88x1gLnC6L
+A5hx2OBybW2ewC+SNoVwtmEzvyHqeg54+X+x+dRdy40Snhu41I1zpjwIEn409Aiq
+E6GoCszYb7uYaTsWHypXJMHzbdcRoiInaWCH/qJGNE3SVILzBFifsD2I2SGhYk1H
+fIXvQJJbmqppIAMhAlhFlmgQaiGqSKJuMECGyGQJWRqWRUWhIlUJEnWTo1iRLK6x
+cDgjH9Y5rhBVJZ7TKOOevl3mGEGlB0LtnVsr0yNpmZGMAf3C3xbJHJTz5w9Oiw/8
+Wbss+IFLFu5ryuj4dP3VjK6gsXFpqdk9sH3MttUbJ0nTS5XTu+deudHvR1V3MnV5
+Cp49pOX5g/07dteN64yDf+ZrAQU84snWad7g/LNDe3Lq5j1rrnldf/xm0eRz6r2X
+pY/t3obe9VkPe3YOooUNSmrNka4aP7rG27N4Q9v3I9mfDn3LKKx6Vx5svfQ5Nb4p
+NrdwU9eJVK50tPvFxorijqcl1XPk80cTmw+070oWjM1KHdsy6mr6xIPaF3J3/p6e
+qd7g1i0TnAtYihxepNQbb9oufmsu6G1ZcSsn9+OpYrP05KTNRQ29Y0cPHzls1qMl
+25+0xN8smLrkfdOqmVmdH97eaGy4svcXHlVHyQ==
+=nWls
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/gleeblezoid
+
+==================================================================
