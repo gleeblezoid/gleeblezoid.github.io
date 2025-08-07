@@ -1,7 +1,7 @@
 Contact: mailto:hello@gleeblezoid.com
-Expires: 2025-04-05T19:35:00.000Z
-Encryption: https://keybase.io/gleeblezoid/pgp_keys.asc?fingerprint=a981281bbcf956fad35fad27d6d9353c2752db24
-Acknowledgments: https://corner.gleeblezoid.com/acknowledgments.html
+Expires: 2026-12-31T22:00:00.000Z
+Encryption: https://keys.openpgp.org/vks/v1/by-fingerprint/E20D1FF81F4991D5D43F3C318B4CF8020206A758
+Acknowledgments:  https://corner.gleeblezoid.com/acknowledgments.html
 Preferred-Languages: en
-Canonical: https://corner.gleeblezoid.com/.well-known/security.txt
+Policy:  https://corner.gleeblezoid.com/.well-known/security.txt
 
